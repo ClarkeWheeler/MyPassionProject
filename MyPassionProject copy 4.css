@@ -1,0 +1,38 @@
+body{
+	background: LemonChiffon;
+font-family: 'Roboto Slab', serif; font-weight: 400;} 
+
+p {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 200px;
+	margin-left: 200px;
+	
+    text-align: justify;
+
+
+}
+
+ol {
+	list-style-type: disc;
+	display: inline;
+	float: none;
+	padding: 10px;
+	
+} 
+
+
+
+.center{
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+.purpletext {
+	color: purple;
+}
+
+.justify {
+	text-align: justify;
+}
